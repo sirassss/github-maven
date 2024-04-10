@@ -1,0 +1,2 @@
+# github-maven
+maven registry
